@@ -1,6 +1,7 @@
-## Hi I'm Veronika👋 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi I'm Veronika! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!--
+<!--[![Gmail Badge](https://img.shields.io/badge/-Veronika.Ishchuk@freenet.ag-c14438?style=flat-square&logo=Gmail&logoColor=white&link=Veronika.Ishchuk@freenet.ag)](Veronika.Ishchuk@freenet.ag)
+
 **VeronikaIshchuk/VeronikaIshchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
