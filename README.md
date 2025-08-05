@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Veronika👋 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <!--
 **VeronikaIshchuk/VeronikaIshchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
